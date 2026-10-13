@@ -1,0 +1,9 @@
+true,c0 - Safe Driving,c1 - Texting,c2 - Talking on the phone,c3 - Operating the Radio,c4 - Drinking,c5 - Reaching Behind,c6 - Hair and Makeup,c7 - Talking to Passenger
+c0 - Safe Driving,21,1,0,0,0,0,0,0
+c1 - Texting,0,34,0,0,0,0,0,0
+c2 - Talking on the phone,0,0,37,0,0,0,0,0
+c3 - Operating the Radio,0,0,0,19,0,0,0,0
+c4 - Drinking,0,0,0,0,21,0,2,0
+c5 - Reaching Behind,0,0,0,0,0,22,0,0
+c6 - Hair and Makeup,0,0,2,0,1,0,25,0
+c7 - Talking to Passenger,3,1,0,0,0,0,0,22

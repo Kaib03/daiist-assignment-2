@@ -1,0 +1,9 @@
+class,instances,precision,recall,AP50,mAP50-95
+c0 - Safe Driving,22,0.915,1.0,0.989,0.935
+c1 - Texting,34,0.942,1.0,0.993,0.951
+c2 - Talking on the phone,37,0.948,1.0,0.979,0.932
+c3 - Operating the Radio,19,0.989,1.0,0.995,0.961
+c4 - Drinking,23,0.954,0.901,0.95,0.884
+c5 - Reaching Behind,22,0.998,1.0,0.995,0.853
+c6 - Hair and Makeup,28,0.909,0.893,0.967,0.846
+c7 - Talking to Passenger,26,0.988,0.885,0.987,0.907

@@ -1,0 +1,9 @@
+,train,valid,test
+c0 - Safe Driving,154,50,22
+c1 - Texting,235,60,34
+c2 - Talking on the phone,225,63,37
+c3 - Operating the Radio,156,50,19
+c4 - Drinking,163,40,23
+c5 - Reaching Behind,168,38,22
+c6 - Hair and Makeup,146,52,28
+c7 - Talking to Passenger,144,45,26
